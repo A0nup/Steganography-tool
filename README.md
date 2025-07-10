@@ -1,4 +1,4 @@
-# Steganography-tool
+
 # Steganography-project
 
 ## Objective:
